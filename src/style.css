@@ -22,6 +22,8 @@ main {
   font-size: 62.6px;
 }
 
+
+
 footer {
   width: 100vw;
   height: 10rem;
@@ -59,15 +61,16 @@ footer {
   header {
     display: flex;
     height: 33vh;
-    align-items: center;
-    justify-content: center;
+    align-items: start;
+    justify-content: start;
     padding: 1.5rem;
-    margin-top: 10rem;
+    /* margin-top: 10rem; */
   }
+
 
   main {
     display: flex;
-    margin-top: 7rem;
+    margin-top: 20rem;
     height: 33vh;
     align-items: center;
     justify-content: center;
@@ -77,7 +80,7 @@ footer {
   footer {
     display: flex;
     align-items: center;
-    margin-top: 10rem;
+    margin-top: 15rem;
     height: 33vh;
     justify-content: center;
     padding: 10px;
